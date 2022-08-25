@@ -142,7 +142,7 @@ a.read-more:hover {
 
 section,
 .section-padding {
-  padding: 70px 0;
+  padding: 25px 0;
   position: relative;
 }
 
@@ -731,7 +731,7 @@ ul.navbar-nav > li.active > a {
 .logo img {
   width: auto;
   height: 70px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .header-two .logo img {
